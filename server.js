@@ -23,7 +23,7 @@ server.route({
 server.start((err) => {
 
     if (err) {
-        throw err;
+        throwerr;
     }
     console.log('Server running at:', server.info.uri);
 });
