@@ -20,7 +20,7 @@ server.route({
 });
 
 // Start the server
-server.start((err) => {
+server.
 
     if (err) {
         throw err
