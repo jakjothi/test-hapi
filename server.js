@@ -20,7 +20,8 @@ server.route({
 });
 
 // Start the server
-server.art((err) => {
+
+server.
 
     if (err) {
         throw err
